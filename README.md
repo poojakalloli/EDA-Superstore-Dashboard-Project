@@ -8,7 +8,7 @@ The main goal is to analyze business performance and extract meaningful insights
 
 ---
 
-## 📌 Dashboards Included
+## 📌📊 Dashboard Preview
 
 ### 🔹 Superstore Performance Dashboard
 
