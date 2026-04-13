@@ -71,6 +71,14 @@ The main goal is to analyze business performance and extract meaningful insights
 * Inventory management needs optimization
 
 ---
+## 💡 Business Insights
+- Technology category has highest sales
+- Discounts negatively impact profit
+- Some regions need optimization
+- Inventory management can be improved
+  
+## 🎯 Project Outcome
+This project helped in understanding real-world business problems and improving data analysis & visualization skills.
 
 ## 📂 Dataset
 
