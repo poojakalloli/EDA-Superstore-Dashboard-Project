@@ -12,73 +12,80 @@ The main goal is to analyze business performance and extract meaningful insights
 
 ### 🔹 Superstore Performance Dashboard
 
-* Top 10 Products by Sales
-* Sales by Category
-* Payment Mode Distribution
-* Sales Over Time
+* Top 10 Products by Sales  
+* Sales by Category  
+* Payment Mode Distribution  
+* Sales Over Time  
 
-![Superstore](outputs/superstore_dashboard.png)
+[![Superstore Dashboard](superstore_dashboard.png)](superstore_dashboard.png)
 
 ---
 
 ### 🔹 Inventory & Supplier Dashboard
 
-* Stock Left & Low Stock Items
-* Auto Reorder Analysis
-* Supplier Performance
-* Reorder Trends
+* Stock Left & Low Stock Items  
+* Auto Reorder Analysis  
+* Supplier Performance  
+* Reorder Trends  
 
-![Inventory](outputs/inventory_dashboard.png)
+[![Inventory](inventory_dashboard.png)](inventory_dashboard.png)
 
 ---
 
 ### 🔹 Customer & Delivery Insights
 
-* Customer Segmentation
-* Sales by Region
-* Profit Analysis
-* Delivery Insights
+* Customer Segmentation  
+* Sales by Region  
+* Profit Analysis  
+* Delivery Insights  
 
-![Customer](outputs/customer_dashboard.png)
+[![Customer](customer_dashboard.png)](customer_dashboard.png)
 
 ---
 
 ### 🔹 Sales Performance Dashboard
 
-* Top Products Analysis
-* Category-wise Sales
-* Profit by Region
-* Sales Trends
+* Top Products Analysis  
+* Category-wise Sales  
+* Profit by Region  
+* Sales Trends  
 
-![Sales](outputs/sales_dashboard.png)
+[![Sales](sales_dashboard.png)](sales_dashboard.png)
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* Python (Pandas, NumPy)
-* Matplotlib, Seaborn
-* Power BI
-* Jupyter Notebook
+* Python (Pandas, NumPy)  
+* Matplotlib, Seaborn  
+* Power BI  
+* Jupyter Notebook  
 
 ---
 
 ## 📈 Key Insights
 
-* Technology category generates highest sales
-* High discounts reduce profit margins
-* Some regions have high sales but low profit
-* Inventory management needs optimization
+* Technology category generates highest sales  
+* High discounts reduce profit margins  
+* Some regions have high sales but low profit  
+* Inventory management needs optimization  
 
 ---
+
 ## 💡 Business Insights
-- Technology category has highest sales
-- Discounts negatively impact profit
-- Some regions need optimization
-- Inventory management can be improved
-  
+
+- Technology category has highest sales  
+- Discounts negatively impact profit  
+- Some regions need optimization  
+- Inventory management can be improved  
+
+---
+
 ## 🎯 Project Outcome
+
 This project helped in understanding real-world business problems and improving data analysis & visualization skills.
+
+---
 
 ## 📂 Dataset
 
@@ -88,5 +95,5 @@ Superstore dataset (CSV format)
 
 ## 👩‍💻 Author
 
-**Pooja Kalloli**
+**Pooja Kalloli**  
 Aspiring Data Analyst 🚀
